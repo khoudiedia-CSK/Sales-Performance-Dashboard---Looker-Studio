@@ -1,9 +1,8 @@
 # Sales-Performance-Dashboard---Looker-Studio
-Ce projet consiste en la création d'un tableau de bord décisionnel conçu pour les équipes Marketing et Commerciales.
 🎯 Objectif du Projet
 Ce projet consiste en la création d'un tableau de bord décisionnel conçu pour les équipes Marketing et Commerciales. L'enjeu est de transformer des données brutes de transactions en insights actionnables pour piloter la croissance et la fidélisation client.
 
-👤 Audience
+👤 Audience : 
 Direction Commerciale : Vision macro et suivi des objectifs.
 
 Équipes Marketing : Analyse du comportement client et segmentation.
@@ -24,6 +23,7 @@ Fréquence : Pipeline ETL avec rafraîchissement quotidien.
 Modélisation : SQL pour le nettoyage et l'agrégation des KPIs.
 
 📈 Indicateurs Clés (KPIs)
+
 Le dashboard suit les métriques critiques suivantes :
 
 Transactions : Volume total de ventes.
@@ -36,7 +36,8 @@ Refund Rate : Suivi de la satisfaction produit et des retours.
 
 Loyalty Share : Part du CA générée par les clients membres du programme de fidélité.
 
-🛠️ Fonctionnalités d'Analyse
+🛠️ Fonctionnalités d'Analyse:
+
 Le rapport permet d'explorer les données selon plusieurs axes (drill-down) :
 
 Temporalité : Comparaison Year-over-Year (YoY) et tendances journalières.
@@ -46,7 +47,9 @@ Produit : Performance par catégories et sous-catégories.
 Client : Segmentation par genre et par niveau de fidélité (Bronze, Silver, Gold).
 
 Géographie : Performance par région et par ville.
-un dashbord qui nous montre les clients ayant effectuer leur achat dans la boutique (Store)
+
+Dashbord qui nous montre les clients ayant effectuer leur achat dans la boutique (Store):
+
 <img width="1157" height="525" alt="image" src="https://github.com/user-attachments/assets/a07f69e8-076e-4dd6-931f-87502be17312" />
 
 
