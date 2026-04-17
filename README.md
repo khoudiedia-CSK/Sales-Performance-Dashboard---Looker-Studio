@@ -9,13 +9,10 @@ Direction Commerciale : Vision macro et suivi des objectifs.
 
 Responsables Régionaux : Pilotage de la performance des points de vente.
 
-<img width="1125" height="573" alt="image" src="https://github.com/user-attachments/assets/9697440b-ef92-4411-b6a7-cf3d7a871d09" />
-<img width="1142" height="456" alt="image" src="https://github.com/user-attachments/assets/694c31f4-add9-463c-abe3-686c93b515de" />
-
 
 🏗️ Architecture & Stack Technique
 Entrepôt de données : Google BigQuery.
-
+<img width="1882" height="837" alt="image" src="https://github.com/user-attachments/assets/0dd96586-2fef-4375-bfba-7184ab16f551" />
 Source : Table prod_sales_kpi (données transactionnelles, CRM et produits).
 
 Fréquence : Pipeline ETL avec rafraîchissement quotidien.
@@ -35,6 +32,9 @@ Client Value : Revenu moyen par client (LTV initiale).
 Refund Rate : Suivi de la satisfaction produit et des retours.
 
 Loyalty Share : Part du CA générée par les clients membres du programme de fidélité.
+
+<img width="1125" height="573" alt="image" src="https://github.com/user-attachments/assets/9697440b-ef92-4411-b6a7-cf3d7a871d09" />
+<img width="1142" height="456" alt="image" src="https://github.com/user-attachments/assets/694c31f4-add9-463c-abe3-686c93b515de" />
 
 🛠️ Fonctionnalités d'Analyse:
 
